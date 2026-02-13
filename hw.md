@@ -6,6 +6,8 @@ Practice **inheritance**, **method overriding**, and **`__str__` customization**
 
 You will implement one **base class** and a few **inheriting classes**, similar in difficulty to the Shapes example — but in a totally different domain
 
+<img src="oop.jpg" />
+
 ## Scenario: Vehicles and Trip Cost
 
 You are building a mini system that represents different kinds of vehicles and calculates the **cost of a trip**
